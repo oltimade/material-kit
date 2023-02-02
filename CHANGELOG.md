@@ -1,74 +1,80 @@
 # Change Log
 
-## [3.0.4] 2022-06-23
+## [3.0.3] 2022-06-23
 ### BugFixing
 - fix inputs on RTL
 - update <html> tag border
 
-## [3.0.3] 2022-06-09
+## [3.0.2] 2022-06-09
 ### Update and Improvements
 - update Bootstrap to v5.2.0-beta1
 - fix code preview for input-outine
-
-## [3.0.2] 2022-03-25
-### Updates
-- update SCSS folder
 
 ## [3.0.1] 2022-03-07
 ### Update and Improvements
 - fix running 'npm install' issue
 - fix SCSS compiling issues
 
-## [3.0.0] 2021-10-07
-### Refactor and Improvements
+## [3.0.0] 2021-10-01
+### Update and Improvements
 - Update Bootstrap to v5.1.1
 - Update to Material Design 2
+- Add more example pages
 - New Documentation version
-- New Product structure
 
-## [2.0.7] 2020-03-06
-### BugFixing
-- Solved the broken links
-- Updated NoUiSlider plugin
-- Solved the existing bugs
-- Change variables from `$brand-color` to `$color`
+## [2.2.0] 2019-10-31
+### Bug fixing, Improvements
+- Update Bootstrap to v4.3.1
+- Updated plugins
+- Small changes for the documentation
+- Dependencies update
+- Misspelling fixed
+- Fixed HTML code in documentation tab title
+- Multilevel dropdown caret rotate fix
+- Change versions on CSS and JS files
 
-## [2.0.6] 2019-09-03
-### BugFixing
-- Fixed issue (javascript file)
-
-## [2.0.5] 2018-11-23
+## [2.1.1] 2018-11-22
 ### Improvements, BugFixing
 - Changes for responsive devices
 - Improvements and BugFixing for documentation
 - Change versions on CSS and JS files
 - Pro Documentation integrated in Free Version
+- New page - Error Page 404
 - Eliminated extra CSS and JS
 
-## [2.0.4] 2018-07-02
-### BugFixing
+## [2.1.0] 2018-06-29
+### Bug fixing, Improvements
 - Solved responsive issues
 - Updated plugins
+- Multilevel dropdown integration
+- Small changes for responsive devices
+- Fixed-plugin in user archive integration
+- Shopping Cart page
 - Speed optimizations
 - Documentation errors fixed
 - Gulp compiling of the SASS files
 - Change versions on CSS and JS files
 - Small changes for components
 
-## [2.0.3] 2018-05-07
-### BugFixing
-- Scss cleaned and fixed issues when compiling
-- Archive cleaned
-- Other small bug fixing
-
-## [2.0.2] 2018-02-13
-### Improvements, Bootstrap 4.0.0 Final Included
-- Reestablish the routes/folder for images
-
-## [2.0.1] 2018-02-06
+## [2.0.3] 2018-02-20
 ### Bug fixing, Improvements
-- SASS issue compile fixed
+- added scroll to id in Section Page
+- change the demo.css/demo.js files to run the project without them
+- resize the modal on devices to fit the page
+- change the name and the route in the gulpfile.js file in the users archive
+- in the html pages the path from images was changed
+- we changed the path of images from `assets/img` folder
+
+## [2.0.3] 2018-02-12
+### Improvements, Bootstrap 4.0.0 update
+- Reestablish the gulp compiling of the SASS files
+
+## [2.0.1] 2018-01-31
+### Bug fixing, Improvements
+- Added two plugins in Documentation
 - Included gulp task that opens the project in browser
+- Reestablish the routes for some Documentation Components
+- responsive issue fixed for carousel
 
 ## [2.0.0] 2018-01-12
 ### Bootstrap 4 update
