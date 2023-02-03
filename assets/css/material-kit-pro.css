@@ -33164,7 +33164,7 @@ Github: https://github.com/fiduswriter/Simple-DataTables
   bottom: 0;
   left: 0;
   box-sizing: border-box;
-  grid-template-areas: "top-start     top            top-end""center-start  center         center-end""bottom-start  bottom-center  bottom-end""gap gap gap";
+  grid-template-areas: "top-start     top            top-end" "center-start  center         center-end" "bottom-start  bottom-center  bottom-end" "gap gap gap";
   grid-template-rows: auto auto auto 0.625em;
   height: 100%;
   padding: 0.625em 0.625em 0;
